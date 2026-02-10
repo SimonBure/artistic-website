@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Simon Buré
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -28,6 +28,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+cv: "https://kdrive.infomaniak.com/app/share/1584212/d4b0c448-e055-4d71-8a88-14ffc20c6cad"
+insta: "https://www.instagram.com/simon_bure/"
+linkedin: "https://www.linkedin.com/in/simon-bur%C3%A9-59642024b/"
+writings: "https://kdrive.infomaniak.com/app/share/1584212/7b2c169b-016b-4dc0-9b97-2e1d8f0bd909"
+profile_pic: "/images/profile.png"
 
 # Build settings
 theme: minima
